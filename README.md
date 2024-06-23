@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salvatore</h1>
+<h1 align="center">Hi 👋, I'm Salvo</h1>
 <h3 align="center">I am an Italian developer currently studying at the University of Salerno</h3>
 
 - 🌱 I’m currently learning **3D modeling with ZBrush**
